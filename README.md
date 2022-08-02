@@ -8,6 +8,6 @@ Simple web application to practice creation a full stack web application from sc
 
 ## Built With
 
-.NET Core Web API for the backend
-Microsoft SQL server for the database
-Vue JS for the front end
++ .NET Core Web API for the backend
++ Microsoft SQL server for the database
++ Vue JS for the front end
